@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KIPM NOTES</string>
+    <string name="facebook_application_id" translatable="false">1386181198465755</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1386181198465755</string>
+    <string name="welcome_to_kipm_notes">Welcome to KIPM Notes</string>
+    <string name="get_all_your_college_notes_at_on_place">Get all your college notes at one place</string>
+    <string name="google_default_client_id">532728331594-5ss1bk99c6fjlpbk9d9eis91dl0vldmo.apps.googleusercontent.com</string>
+</resources>

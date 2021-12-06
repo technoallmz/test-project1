@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532728331594",
+    "project_id": "kipm-notes",
+    "storage_bucket": "kipm-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532728331594:android:12388368c8fd868f7415b3",
+        "android_client_info": {
+          "package_name": "com.zvm.kipmnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532728331594-5ss1bk99c6fjlpbk9d9eis91dl0vldmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkMrzNXQbGTXYVJZsZH2Lm8Hr0kW4OFkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532728331594-5ss1bk99c6fjlpbk9d9eis91dl0vldmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
