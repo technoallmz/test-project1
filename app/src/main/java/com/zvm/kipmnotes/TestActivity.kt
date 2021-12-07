@@ -10,5 +10,6 @@ class TestActivity : AppCompatActivity() {
 
         print("hello............")
         print("ghhfdfhydhnfgjgc")
+        print("hi from github")
     }
 }
