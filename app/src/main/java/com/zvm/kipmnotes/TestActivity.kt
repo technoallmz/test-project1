@@ -9,5 +9,6 @@ class TestActivity : AppCompatActivity() {
         setContentView(R.layout.activity_test)
 
         print("hello............")
+        print("ghhfdfhydhnfgjgc")
     }
 }
